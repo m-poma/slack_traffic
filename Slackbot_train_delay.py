@@ -5,7 +5,7 @@ import json
 url =  "https://tetsudo.rti-giken.jp/free/delay.json"
 delay_data = json.load("20211125.json")
 
-# WEB_HOOK_URLはSlackの設定で準備で発行したURLを設定。
+# WEB_HOOK_URLはSlackの設定で準備で発行したURLを設定
 WEB_HOOK_URL = "https://hooks.slack.com/services/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"
 "
 """
